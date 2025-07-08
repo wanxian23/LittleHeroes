@@ -8,10 +8,13 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
     private Vector2 movement;
+    private Animator animator;
+    private Vector2 lastDirection = Vector2.down; // Default facing down
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     void Update()
@@ -22,6 +25,20 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey(KeyCode.A)) movement.x -= 1;
         if (Input.GetKey(KeyCode.D)) movement.x += 1;
         movement = movement.normalized;
+
+        // Update last direction if moving
+        if (movement != Vector2.zero)
+        {
+            lastDirection = movement;
+        }
+
+        // Set animator parameters for idle direction and movement state
+        if (animator != null)
+        {
+            animator.SetFloat("moveX", lastDirection.x);
+            animator.SetFloat("moveY", lastDirection.y);
+            animator.SetBool("isMoving", movement != Vector2.zero);
+        }
     }
 
     void FixedUpdate()

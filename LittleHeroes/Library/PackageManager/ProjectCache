@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638856402686909531
-    m_Hash: 2202925319
+      ticks: 638856448315294318
+    m_Hash: 3627678885
   m_LockFileStatus:
     m_FilePath: D:/GameDev_EduGC/LittleHeroes/LittleHeroes/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638856402686995387
-    m_Hash: 2100987329
+      ticks: 638856448315304332
+    m_Hash: 1821690091
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:

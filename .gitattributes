@@ -1,0 +1,2 @@
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+LittleHeroes/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text

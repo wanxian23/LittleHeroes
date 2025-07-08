@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE386C4-A3A1-6383-A576-61597A1F418C}|Assembly-CSharp.csproj|d:\\gamedev_edugc\\littleheroes\\littleheroes\\assets\\scripts\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE386C4-A3A1-6383-A576-61597A1F418C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE386C4-A3A1-6383-A576-61597A1F418C}|Assembly-CSharp.csproj|d:\\gamedev_edugc\\littleheroes\\littleheroes\\assets\\scripts\\dialogmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE386C4-A3A1-6383-A576-61597A1F418C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE386C4-A3A1-6383-A576-61597A1F418C}|Assembly-CSharp.csproj|D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\assets\\scripts\\bookscene\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE386C4-A3A1-6383-A576-61597A1F418C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bookscene\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE386C4-A3A1-6383-A576-61597A1F418C}|Assembly-CSharp.csproj|D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\assets\\scripts\\bookscene\\missioncompletepanelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE386C4-A3A1-6383-A576-61597A1F418C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bookscene\\missioncompletepanelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\SlotManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SlotManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\slotScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\slotScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogMessage.cs",
+              "DocumentMoniker": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\DialogMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogMessage.cs",
+              "ToolTip": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\DialogMessage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogMessage.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAASwG8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:45:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SlotManager.cs",
+              "DocumentMoniker": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\BookScene\\SlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BookScene\\SlotManager.cs",
+              "ToolTip": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\BookScene\\SlotManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BookScene\\SlotManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:05:10.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarkController.cs",
+              "DocumentMoniker": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\MarkController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MarkController.cs",
+              "ToolTip": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\MarkController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MarkController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:02:58.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MissionCompletePanelHandler.cs",
+              "DocumentMoniker": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\BookScene\\MissionCompletePanelHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BookScene\\MissionCompletePanelHandler.cs",
+              "ToolTip": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\BookScene\\MissionCompletePanelHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BookScene\\MissionCompletePanelHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T04:55:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "slotScript.cs",
+              "DocumentMoniker": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\slotScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\slotScript.cs",
+              "ToolTip": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\slotScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\slotScript.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:45:56.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlotManager.cs",
+              "DocumentMoniker": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\SlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotManager.cs",
+              "ToolTip": "D:\\GameDev_EduGC\\LittleHeroes\\LittleHeroes\\Assets\\Scripts\\SlotManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:43:58.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
